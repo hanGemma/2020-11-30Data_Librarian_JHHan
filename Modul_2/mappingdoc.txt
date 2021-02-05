@@ -1,0 +1,52 @@
+mapping to XML
+'id' -> <bibsomy_id>
+'tags'-> <keys> <key>---<key></keys>
+'label' -> <title>  
+'date' ->  <date>
+'changeDate -> <changeDate>  
+'pub-type' -> <pub-type>,
+'year'-> <year>, 
+'url' -><url>,
+'authors' -> <authors> <author> <first/><last/> </author><authors>
+'note' -> <note>
+'abstract -> <abstract> 
+'journal' -> <journal>
+'volume'  -> <volume> 
+'number' -><number>
+'pages'  -><pages>
+'language'-> <language>
+'issn' -> <issn>
+'doi' -> <doi>
+'booktitle'-> <booktitle>
+'series' -> <series>
+'publisher'-> <publisher>
+'isbn'-> <isbn>
+'shorttitle'-> <shorttitle>
+'editors' -> <editors>  
+'uri' -><url>
+'affiliation' -><affiliation>
+'keyword' -> <keyword>
+'copyright -> <copyright>
+
+mapping to Solr Json
+name Änderung
+'type'->type_s
+'id', ->id
+'tags', tags_ss
+'label', ->title_t
+'pub-type', pub-type_s
+'year', year_s
+'url',url_s
+'author',[] author_txt 
+'journal', journal_t
+'volume',  volume_s
+'number', number_s
+'pages', pages_s
+'language', language_s
+'doi', doi_s
+'booktitle', booktitle_s
+'series', series_s
+'publisher' publisher_s
+'shorttitle' ->shorttitle_s
+'editor', ->editor_txt
+'uri' ->uri_s	

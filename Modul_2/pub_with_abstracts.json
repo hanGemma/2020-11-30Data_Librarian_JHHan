@@ -160,7 +160,7 @@
     },
     {
         "type": "Publication",
-        "id": "https://www.bibsonomy.org/bibtex/2c26c16e0a8036000b788fada656f59dd/mgrani",
+        "id": "https://www.bibsonomy.org/bibtex/2c26c16e0a8036000b788fada656f59dd/hotho",
         "tags": [
             "semantic",
             "merged:hotho",
@@ -179,10 +179,10 @@
         "intraHash": "c26c16e0a8036000b788fada656f59dd",
         "interHash": "3dfe398bb588335ffc562088d5a509de",
         "label": "Application of Spreading Activation Techniques in Information Retrieval",
-        "user": "mgrani",
+        "user": "hotho",
         "description": "SpringerLink - Zeitschriftenbeitrag",
-        "date": "2008-05-27 08:15:25",
-        "changeDate": "2008-05-27 08:15:52",
+        "date": "2007-07-04 16:49:33",
+        "changeDate": "2007-07-06 11:48:58",
         "count": 12,
         "pub-type": "article",
         "journal": "Artificial Intelligence Review",
@@ -200,7 +200,7 @@
         "volume": "11",
         "number": "6",
         "pages": "453--482",
-        "abstract": "This paper surveys the use of Spreading Activation techniques onSemantic Networks in Associative Information Retrieval. The majorSpreading Activation models are presented and their applications toIR is surveyed. A number of works in this area are criticallyanalyzed in order to study the relevance of Spreading Activation forassociative IR.\nER  -",
+        "abstract": "This paper surveys the use of Spreading Activation techniques onSemantic Networks in Associative Information Retrieval. The majorSpreading Activation models are presented and their applications toIR is surveyed. A number of works in this area are criticallyanalyzed in order to study the relevance of Spreading Activation forassociative IR.\r\nER  -",
         "bibtexKey": "crestani1997spreading"
     },
     {
@@ -2252,6 +2252,40 @@
         ],
         "abstract": "Department of Agricultural Sciences and Technology, 72p. 2013",
         "bibtexKey": "kasyoka2014efficiency"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2307a88ef1d82eebf347d4fd52318ec43/vngudivada",
+        "tags": [
+            "WebIR",
+            "Book",
+            "IR",
+            "merged:vngudivada"
+        ],
+        "intraHash": "307a88ef1d82eebf347d4fd52318ec43",
+        "interHash": "3c239dde07e22fbfb0e951ecdba2f89b",
+        "label": "Web information retrieval",
+        "user": "vngudivada",
+        "description": "",
+        "date": "2016-07-27 21:00:01",
+        "changeDate": "2019-03-25 17:13:02",
+        "count": 1,
+        "pub-type": "book",
+        "year": "2013",
+        "url": "http://www.books24x7.com/marc.asp?bookid=77020",
+        "author": [
+            "Stefano Ceri"
+        ],
+        "authors": [
+            {
+                "first": "Stefano",
+                "last": "Ceri"
+            }
+        ],
+        "abstract": "With the proliferation of huge amounts of (heterogeneous) data on the Web, the importance of information retrieval (IR) has grown considerably over the last few years. Big players in the computer industry, such as Google, Microsoft and Yahoo!, are the primary contributors of technology for fast access to Web-based information; and searching capabilities are now integrated into most information systems, ranging from business management software and customer relationship systems to social networks and mobile phone applications. Ceri and his co-authors aim at taking their readers from the foundations of modern information retrieval to the most advanced challenges of Web IR. To this end, their book is divided into three parts. The first part addresses the principles of IR and provides a systematic and compact description of basic information retrieval techniques (including binary, vector space and probabilistic models as well as natural language search processing) before focusing on its application to the Web. Part two addresses the foundational aspects of Web IR by discussing the general architecture of search engines (with a focus on the crawling and indexing processes), describing link analysis methods (specifically Page Rank and HITS), addressing recommendation and diversification, and finally presenting advertising in search (the main source of revenues for search engines). The third and final part describes advanced aspects of Web search, each chapter providing a self-contained, up-to-date survey on current Web research directions. Topics in this part include meta-search and multi-domain search, semantic search, search in the context of multimedia data, and crowd search.",
+        "isbn": "9783642393143 3642393144",
+        "refid": "857892865",
+        "bibtexKey": "ceri2013information"
     },
     {
         "type": "Publication",
@@ -5646,8 +5680,8 @@
             "merged:ewomant",
             "ir",
             "IR",
-            "analysis",
             "google",
+            "analysis",
             "performance",
             "comparision",
             "Web",
@@ -5664,8 +5698,8 @@
             "web",
             "web2.0",
             "toread",
-            "social-search",
             "merged:iamjason",
+            "social-search",
             "engine",
             "Search",
             "information_retrieval",
